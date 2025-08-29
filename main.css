@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(237, 204, 204);
+
+}
+
+#tacosT{
+background-color: rgba(0, 0, 0, 0.13);
+border-color: rgba(0, 0, 0, 0.94);
+padding-bottom: 50px;
+padding-top: 50px;
+
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  background-color: #ddd;
+}
+
+#imagen {
+  width: 200px;
+  margin-top: 20px;
+}
+
+#btnOcultar {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.13);
+  
+}
+
+#f {
+  margin: 0;
+}
